@@ -1,0 +1,17 @@
+Commands to push to github
+
+//to tracking
+git add .
+
+//to commit
+git commit -m"your message"
+
+//to push
+git push
+
+initialize
+repository
+tracking
+commit
+commit message
+pushing
