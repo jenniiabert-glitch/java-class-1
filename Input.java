@@ -21,5 +21,7 @@ public class Input {
     System.out.println("The area is " + Area);
 
     System.out.println(Area);
+
+    scanner.close();
   }
 }
