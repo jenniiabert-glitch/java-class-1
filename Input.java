@@ -10,7 +10,7 @@ public class Input {
     int Length;
     int Width;
 
-    System.out.print("Input in the Lenght : ");
+    System.out.print("Input in the Length : ");
     Length = scanner.nextInt();
 
     System.out.print("Input in the Width : ");
