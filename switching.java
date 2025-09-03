@@ -15,8 +15,7 @@ public class switching {
 
         System.out.println("Input you grade here........A - E");
         String output =  scanner.nextLine();
-
-        // if (output.equals("A")) {
+     // if (output.equals("A")) {
         //     System.out.println("Perfect Score");
         // }else if (output.equals("B")){
         //     System.out.println("Very Good");

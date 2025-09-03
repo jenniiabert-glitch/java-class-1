@@ -1,22 +1,26 @@
+
 public class loops {
-    
-    public static void main (String[] args) {
-       // out put numbbers 1 to 10
-       // starting point
-       int Start = 1;
-       //ending point
-       int end = 50;
+    // int start = 1;
+    // int end = 10;
 
+    public static void main(String[] args) {
 
-       //if divisible bt 3 - fizz
-       //if divisible by 5 - buzzz
-       //if divisible by both 3 and
-
-       
-       
-       while (Start <=end) {
-            System.out.println(Start);
-            Start = Start + 1 ;
-       }
-    }
+     
+for
+ (int i = 0; i < 10; 
+i++
+) {
+  System.out.println(
+"Yes"
+);
 }
+            }
+        }
+            
+    
+     
+
+ 
+
+
+    
